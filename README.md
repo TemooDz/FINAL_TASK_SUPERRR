@@ -3,5 +3,9 @@
 
 
 
+![image](https://user-images.githubusercontent.com/59505947/175661913-f08a0045-dd8f-4b6c-acc3-f22994cf8591.png)
+
+
 ავტორიზაციიის ფეიჯზე რექუესთი მიდის ეპიაი სერვისთან და ადარებს იქ დარეგისტრირებულ იუზერებს და აბრუნებს ლოგიკურ 
 რესფონსს.
+![image](https://user-images.githubusercontent.com/59505947/175661940-c7a0c7f8-8620-4aed-949b-844c44dd42b3.png)
